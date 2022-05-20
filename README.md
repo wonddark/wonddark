@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osmanys Fuentes-Lombá, Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 <h3 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h3>
 
 - 👨‍💻 All of my projects are available at [axhura.nat.cu/projects](axhura.nat.cu/projects)
