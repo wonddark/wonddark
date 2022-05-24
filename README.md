@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 <h3 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h3>
 
+![Profile views](https://gpvc.arturio.dev/wonddark)
+
 - 👨‍💻 All of my projects are available at [axhura.nat.cu/projects](https://axhura.nat.cu/projects)
 
 - 📝 I regularly write articles on [axhura.nat.cu/blog](https://axhura.nat.cu/blog)
@@ -27,5 +29,3 @@
 ![GitHub metrics](https://metrics.lecoq.io/wonddark)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wonddark&theme=github_dark)  
-
-![Profile views](https://gpvc.arturio.dev/wonddark)
