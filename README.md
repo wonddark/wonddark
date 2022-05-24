@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
 <h3 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h3>
 
-- 👨‍💻 All of my projects are available at [axhura.nat.cu/projects](axhura.nat.cu/projects)
+- 👨‍💻 All of my projects are available at [axhura.nat.cu/projects](https://axhura.nat.cu/projects)
 
-- 📝 I regularly write articles on [axhura.nat.cu/blog](axhura.nat.cu/blog)
+- 📝 I regularly write articles on [axhura.nat.cu/blog](https://axhura.nat.cu/blog)
 
 - 💬 Ask me about **react, symfony, typescript, api-platform**
 
 - 📫 How to reach me **ossmanys@gmail.com**
 
-- 📄 Know about my experiences [axhura.nat.cu/resume](axhura.nat.cu/resume)
+- 📄 Know about my experiences [axhura.nat.cu/resume](https://axhura.nat.cu/resume)
 
 - ⚡ Fun fact **I'm coming from Physics, not from computers, but here I am**
 
