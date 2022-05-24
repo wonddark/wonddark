@@ -24,8 +24,6 @@
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonddark&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wonddark)  
-
 ![GitHub metrics](https://metrics.lecoq.io/wonddark)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wonddark)  
