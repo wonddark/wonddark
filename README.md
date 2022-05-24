@@ -26,6 +26,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/wonddark)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wonddark)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wonddark&theme=github_dark)  
 
 ![Profile views](https://gpvc.arturio.dev/wonddark)
