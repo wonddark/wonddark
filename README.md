@@ -39,3 +39,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonddark&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wonddark&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>My socials</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15056711)  
