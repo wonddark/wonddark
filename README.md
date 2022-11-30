@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Full Stack Developer</h1>
-<h3 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h3>
+<h2 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h2>
 
 ![Profile views](https://gpvc.arturio.dev/wonddark)
 
