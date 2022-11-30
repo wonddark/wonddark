@@ -1,4 +1,4 @@
-<h2 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h2>
+<h1 align="center">Committed, Passionate and Entrepreneurial Cuban Developer</h1>
 
 ![Profile views](https://gpvc.arturio.dev/wonddark)
 
