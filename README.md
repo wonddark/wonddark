@@ -1,3 +1,3 @@
 <h2>Great passion for building highly interactive web applications</h2>
-<h4>Complex state management, advanced forms validation, seamless user expperience</h4>
+<h5>Complex state management, advanced forms validation, seamless user expperience</h5>
 <em>React, Redux, Typescript</em>
