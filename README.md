@@ -1,16 +1,27 @@
-# Great passion for building highly interactive web applications
-Complex state management, advanced forms validation, seamless user experience
+# I build highly interactive web applications
 
-*React, Redux, Typescript*
+#### I excel at handling complex state management, at developing advanced form validation and at creating seamless user experience
+
+###### React, Redux, Typescript
 
 ## Featured projects
 
-### TechRead
+- ### TechRead
 
-Online library
+  Online library
 
-**Showcases**
+  **Showcases**
 
-- REST API integration
-- Client routing
-- State management (with Redux)
+  - REST API integration
+  - Client side routing
+  - State management (with Redux)
+
+- ### GoodValue
+  
+  Online store
+
+  **Showcases**
+
+  - REST API integration
+  - Client side routing
+  - 
