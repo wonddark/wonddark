@@ -1,12 +1,16 @@
-<h2>Great passion for building highly interactive web applications</h2>
-<h6>Complex state management, advanced forms validation, seamless user expperience</h6>
-<em>React, Redux, Typescript</em>
+# Great passion for building highly interactive web applications
+Complex state management, advanced forms validation, seamless user experience
 
-<h4>Featured projects</h4>
+*React, Redux, Typescript*
 
-<ul>
-  <li>
-    <strong>TechRead</strong>
-    <p>Showcase</p>
-  </li>
-</ul>
+## Featured projects
+
+### TechRead
+
+Online library
+
+**Showcases**
+
+- REST API integration
+- Client routing
+- State management (with Redux)
