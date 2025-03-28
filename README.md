@@ -1,8 +1,10 @@
 # I build highly interactive web applications
 
-#### I excel at handling complex state management, at developing advanced form validation and at creating seamless user experience
+#### Excellence at handling complex state management, developing advanced form validation and creating seamless user experience
 
 ###### React, Redux, Typescript
+
+[Linkedin](https://linkedin.com/in/wonddark)
 
 ## Featured projects
 
@@ -16,6 +18,8 @@
   - Client side routing
   - State management (with Redux)
 
+  [Source code](https://github.com/wonddark/techread) | [Live site](https://techread.vercel.app/)
+
 - ### GoodValue
   
   Online store
@@ -24,4 +28,5 @@
 
   - REST API integration
   - Client side routing
-  - 
+
+  [Source code](https://github.com/wonddark/goodvalue) | [Live site](https://goodvalue.vercel.app/)
