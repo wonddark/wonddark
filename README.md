@@ -1,36 +1,46 @@
-# I build highly interactive web applications
+# Osmanys Fuentes-Lombá — Web & Mobile Developer
 
-#### Excellence at handling complex state management, developing advanced form validation and creating seamless user experience
+Full-stack developer focused on building interactive, production-grade applications.
+Strong bias toward TypeScript, clean architecture, and seamless UX.
 
-###### React, Redux, Typescript, CSS, SCSS, PHP, Symfony, NodeJS, Express, MySQL, PostgresSQL, SQLite
+[LinkedIn](https://linkedin.com/in/wonddark) · [Portfolio](https://wonddark.github.io)
 
-[Linkedin](https://linkedin.com/in/wonddark)
+---
 
-## Featured projects
+## Skills
 
-- ### TechRead
+**Frontend**
+React · Redux Toolkit · RTK Query · Svelte/SvelteKit · Remix · React Router
+TailwindCSS · Shadcn/UI · SCSS · Vite · TypeScript
 
-  Discover, save and share book reading lists
+**Backend**
+PHP · Symfony · API Platform · Node.js · Express · Cloudflare Workers
 
-  **Showcases**
+**Mobile**
+Kotlin · Android (Jetpack)
 
-  - REST API integration
-  - Client side routing
-  - State management (with Redux)
+**Databases**
+PostgreSQL · MySQL · SQLite
 
-  ###### react, redux-toolkit, react-router, TailwindCSS, Shad/cn
+**Integrations**
+Stripe · Keycloak · HubSpot
 
-  [Source code](https://github.com/wonddark/techread) | [Live site](https://techread.vercel.app/)
+---
 
-- ### GoodValue
-  
-  Online store
+## Featured Projects
 
-  **Showcases**
+- **[Mercadi](https://github.com/wonddark/mercadi)** — Auction platform with real-time bidding
+  `React · Redux · TypeScript` + `PHP · Symfony · API Platform`
 
-  - REST API integration
-  - Client side routing
-  
-  ###### React, redux-toolkit, react-router, TailwindCSS, Shad/cn
+- **[Kingdom Library](https://github.com/wonddark/bookstore-kingdom_library)** — Bookshop with auth & payments
+  `React · RTK Query · SCSS` + `Keycloak · Stripe`
 
-  [Source code](https://github.com/wonddark/goodvalue) | [Live site](https://goodvalue.vercel.app/)
+- **[TechRead](https://techread.vercel.app/)** — Book reading list manager
+  `React · Redux Toolkit · TailwindCSS · Shadcn/UI`
+  [Source](https://github.com/wonddark/techread)
+
+- **[DailyAED](https://github.com/wonddark/dailyaed)** — Daily income & expense tracker
+  `React · TypeScript · TailwindCSS`
+
+- **[Carveri](https://github.com/wonddark/carveri)** — Monorepo project (active)
+  `TypeScript`
